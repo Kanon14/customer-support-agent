@@ -8,7 +8,6 @@ This project provides a **user-friendly customer** support interface that can:
 - Retrieve detailed product information.
 
 The system routes customer queries to specialized agents to ensure accurate and efficient responses.
-![langflow workflow](components/langflow.jpg)
 
 ## Features
 - **Multi-Agent System**: Separate agents handle FAQs, orders, and product lookups.
